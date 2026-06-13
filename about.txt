@@ -1,0 +1,9 @@
+Conditional- Logic
+Loops- Menu System
+Dictionary- Store Data
+
+Teacher
+1- Add Student
+2- View All  Atudent
+3- Result
+4- Exit
